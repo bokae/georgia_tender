@@ -1,3 +1,9 @@
+A kovetkezo lepeseket csinaltam meg a letrehozas elott:
+* [https://help.github.com/articles/set-up-git/]
+* [https://help.github.com/articles/generating-an-ssh-key/]
+* [https://help.github.com/articles/fork-a-repo/]
+* [https://help.github.com/articles/syncing-a-fork/]
+
 A `.gitignore` fajlban azok a fajlok vannak felsorolva, amiket nem szeretnenk felszinkronizalni. Ilyenek a notebookok checkpointjai, illetve az adat, az ugysem valtozik.
 
 Mielott elkezdesz dolgozni:
