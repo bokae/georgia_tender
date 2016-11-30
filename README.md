@@ -16,6 +16,9 @@ git commit -m "commit message"
 git push
 ```
 
+Ha pl. csak egy fajlt valtoztattal meg, es csak ahhoz szeretnel commit message-t fuzni, akkor akar lehet a `git add .` helyett `git add filename`-t hasznalni.
+
+
 Amikor mar nem dolgozol tovabb, akkor annak a kerese, hogy en is beolvasszam magamnal a valtoztatasokat:
 
 [leiras itt](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
