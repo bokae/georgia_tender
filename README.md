@@ -1,8 +1,8 @@
 A kovetkezo lepeseket csinaltam meg a letrehozas elott:
-* [https://help.github.com/articles/set-up-git/]
-* [https://help.github.com/articles/generating-an-ssh-key/]
-* [https://help.github.com/articles/fork-a-repo/]
-* [https://help.github.com/articles/syncing-a-fork/]
+* https://help.github.com/articles/set-up-git/
+* https://help.github.com/articles/generating-an-ssh-key/
+* https://help.github.com/articles/fork-a-repo/
+* https://help.github.com/articles/syncing-a-fork/
 
 A `.gitignore` fajlban azok a fajlok vannak felsorolva, amiket nem szeretnenk felszinkronizalni. Ilyenek a notebookok checkpointjai, illetve az adat, az ugysem valtozik.
 
@@ -27,7 +27,7 @@ Ha pl. csak egy fajlt valtoztattal meg, es csak ahhoz szeretnel commit message-t
 
 Amikor mar nem dolgozol tovabb, akkor annak a kerese, hogy en is beolvasszam magamnal a valtoztatasokat:
 
-[leiras itt](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+* https://help.github.com/articles/creating-a-pull-request-from-a-fork/
 
 Ha nem olvasztom be a pull requestedet, akkor akarmit commitolsz meg kesobb, az is belekerul, nem kell ujra letrehoznod.
 
