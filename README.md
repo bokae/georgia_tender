@@ -25,4 +25,9 @@ Amikor mar nem dolgozol tovabb, akkor annak a kerese, hogy en is beolvasszam mag
 
 Ha nem olvasztom be a pull requestedet, akkor akarmit commitolsz meg kesobb, az is belekerul, nem kell ujra letrehoznod.
 
+Megjegyzes: a bejelentkezeshez letrehozott ssh-kulcs nem adodik hozza automatikusan az agenthez, ugyhogy a kovetkezo ket sort irtam bele a `~/.bashrc` fajl vegere:
 
+```
+eval "$(ssh-agent -s)" >/dev/null 2>&1
+ssh-add /home/bencs/.ssh/id_github >/dev/null 2>
+```
