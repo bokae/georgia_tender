@@ -1,3 +1,5 @@
+A `.gitignore` fajlban azok a fajlok vannak felsorolva, amiket nem szeretnenk felszinkronizalni. Ilyenek a notebookok checkpointjai, illetve az adat, az ugysem valtozik.
+
 Mielott elkezdesz dolgozni:
 
 ```
